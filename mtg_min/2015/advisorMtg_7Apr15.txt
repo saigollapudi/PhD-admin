@@ -1,0 +1,17 @@
+WHAT: PhD advisory mtg with Prof. Choppella
+WHEN: Apr 7, 2015 - 1:45pm
+WHO: Sai Gollapudi (myself, SG), Prof. Choppella (VC)
+
+    had a mtg with prof choppella (VC)
+    VC wanted SG to get involved in VLABs, VLEAD. He sees the team as a development lab and community that could add to SG's work. According to VC , it is a place to understand, influence and experiment.
+    Product development (in a academic environment) is equivalent to a experimental lab; product development founded on research concepts 
+    about the web services for accessibility... VC suggested that...
+        I look at the philosophical argument of perceptions and differences in persecptions. He called it maya principle. I called it srishti vs dristhi (my words).
+        VC thinks that it is more than just personalization... it is about presenting something to the tune / taste / liking / pallatability / understandability of somebody. 1 content, many deliverables of it. (I said "ekam sat, vipra bahudavadanti").
+        Does current web techn support such presentations of single content. WHy, why not?
+        Current web tech seems to be syntactically driven... DOM driven... but we need it to be more semantically repurposed for various users... how? Are current architectures facilitating it? Why, why not? What is forbidding them? What is lost when this is not done? Where do we have (at least 5) examples of this lacuna? What is the value add for doing this modification?
+        How is this different from preferences (SG's question)
+    VC suggested that I look at something and see if it is a problem... if it is, why is it not solved? What is interesting about it? And if solved, will the solution add value and make it interesting? can we see several apps coming out of it?
+    Not just preferences but perceptions... not just disability but accessibility
+    If a legal document is renarrated for a maid, it is being presented in a way that is suited for the maid. The re purposing is not just preferences... And, the original has the earlier content as well. Why was the original shown as only one view? What is core of the original that has not been redelivered in new view? does new display have old core content?
+     

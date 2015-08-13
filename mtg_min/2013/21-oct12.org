@@ -1,0 +1,22 @@
+#+ TITLE: meeting on 21t Oct.
+
+* Discussion on Statistical methods
+
+* Alipi
+- 6-7 buildings of iiit.
+  - based on work location in user profile- workplace/lab, the page
+    will change.
+- driver education 
+- staggered licensing-  drive to only particular areas, in particular
+  time (at night) 17 yrs
+ 
+
+* TODO 
+- compare Crowd Consensus with Cultural consensus theory
+- Interweaving public user profiles on web- add it! 
+
+- mention as future work in Alipi- based on bonding with other people,
+  re-narrations selection..
+
+ 
+

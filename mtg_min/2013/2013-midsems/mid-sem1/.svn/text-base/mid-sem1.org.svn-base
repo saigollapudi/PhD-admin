@@ -1,0 +1,52 @@
+#+TITLE: Mid Sem-1 progress review meeting
+#+AUTHOR: Deepti Aggarwal
+#+DATE: [2013-02-01 Friday]
+#+STARTUP: overview
+#+STARTUP: hidestars hideblocks
+#+DESCRIPTION: An exploration of the Event-B framework using the Rodin Platform
+#+KEYWORDS: Event-B, Rodin
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+#+startup: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [12pt,bigger]
+#+LaTeX_HEADER: \setbeamertemplate{frametitle}[default][center]
+#+LaTeX_HEADER: \mode<beamer>{\usetheme{Warsaw}}
+
+#+BEAMER_FRAME_LEVEL: 2
+# Each 2nd level heading is a slide
+
+* Work accomplished in January
+** Renarration service for Alipi framework:
+1. Plugin integration: Twitter integration is still left along with
+   some more refinement of the plugin. 
+2. Worked on an initial draft of Alipi.
+3. Improved thesis chapter on literature survey of web accessibility. 
+
+** Power of Friends:
+1. Paper submitted in CHI 2013.
+2. Chapter done. 
+
+** Thesis writing:
+1. Worked on Introduction chapter of the thesis.
+2. Added Appendix.
+
+* Work to be accomplished by next month end
+** Alipi paper submission 
+1. Work on the paper draft.
+2. Conduct user study in the R&D showcase. 
+
+** Thesis completion
+Incomplete chapters: Introduction, Re-narration service to Alipi and
+Conclusion.
+
+* Deadlines to follow
+W4A 2013 (15th Feb.)
+
+
+

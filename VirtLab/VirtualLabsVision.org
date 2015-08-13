@@ -1,0 +1,221 @@
+#+TITLE: Virtual Lab Ideation Document
+#+AUTHOR: Sai Gollapudi
+
+* Introduction
+The design and development of backend infrastructure of Virtual Labs
+can be influenced by multiple perspectives
++ Sponsor perspective
++ Student perspective
++ Code-Developer perspective
++ Virtual-Lab creator perspective 
+
+All these perspectives contribute to requirements in various
+ways. Some of these requirements may overlap, and others might even
+conflict. Ease of use could be the requirement of a Virtual-Lab
+creator. Maximum usage could be the requirement of a Sponsor. Elegant
+design might be the requirement of the coder. Maximum flexibility and
+a great place to trail-and-error could be the requirement of the
+student. 
+
+If we do not have well segmented work-plans and if do not have
+multiple reviewers and contributors to design, we may end up with a
+hacked (or poorly designed) system.
+
+We propose the following guidelines for the development of this
+virtual-labs platform.
+
+
+* Roles & Responsibilities
+At least we need to have roles like (Requirement) Analyst, (Concept)
+Researcher (and Architect), (Virtual Lab) Product Manager, Development
+Manager, Technical Architect, UI designer etc. 
+
+** Analyst
+An analyst is needed to do an ethnographic study in the field with the
+potential users. We have Tier 2 and Tier 3 College Profs and College Students to
+investigate. A proper study should address the following points:
++ are people using technology in learning
++ what are the infrastructure challenges
++ what is the competency level of the students, professors
++ what prohibits a professor from taking on a virtual lab as part of
+  his lesson plan. Or, what would motivate a professor to take it on
++ what are students not getting from courses, but must get to grow in
+  the field (that is, what is beyond the course - should motivate the
+  virtual lab content)
++ from the point of view of students, what makes a lab be sought after
++ from the point of view of the college staff, what makes a lab OK to
+  include in their teaching aids... i.e. when will they see it as core
+  to their lessons
++ what LMS are there in the field
++ how technically sound is the infra in the college
+
+Based on a proper study, the Analyst should produce a report. This
+report should highlight some requirements. The list of requirements
+should be categorized as "Must have", "Love to have",
+"Bells-n-whistles" etc.
+
+This becomes an input to the Virtual Lab Product Manager.
+
+** Development Manager
+The Development Manager or local sponsor of Virtual Labs should have a larger
+vision. What is the final direction of the virtual lab (e.g. will it
+be simulation oriented or finally become or game type); what are the
+key obligations (perhaps from the funding team) that we HAVE to meet?
+What is the prioritization we must follow? etc.
+
+Development Manager produces vision and strategy documents. The report
+from the analyst and the Development Manager feed into the Virtual Lab
+Product Manager.
+
+** Product Manager
+Product Manager of Virtual Labs should take in the inputs from the
+Analyst, the vision / Strategy docs from the Development Manager, and
+also the bug report from the Testers to produce a product roadmap
+document. This document should talk about various feature requests
+(who wants it, why...) and link them to various releases. The releases
+can be timed and named. The filtering process for moving / keeping a
+feature should be clearly discussed, reviewed and agreed.
+
+Product Manager should also help in creating PR material.
+
+** (Concept) Researcher
+the concept Researcher is responsible for specifiying what a LAB is
+and what it is not. Also, they are responsible for specifying what
+phases / stages it goes through. Maybe there is a LAB model that one
+must use. What labels and intercept points will make sense for an
+abstracted LAB? And, at each stage...what data must be present,
+accessible and required? 
+
+A state machine based basic LAB model can be created. Idea is to be
+able to fuse one or multiple LABs together; be able to give the
+control of LAB workflow to the State Machine manager and not to the
+virtual lab itself; be able to interrupt, blend, cutover LABs. Data
+must be transferrable from one lab to another etc.
+
+The research can focus on earlier literature or field studies. It must
+address fundamental questions like: A LAB differs from a course, how? What makes a LAB unique? What are
+basic must haves in a LAB? What is the abstraction of a LAB? Finllay,
+the proposed model (and method) should withstand scientific rigor
+
+A basic ISUP call model or a gestalt experience cycle can be used as
+reference points for the design and development of the LAB call model.
+
+*** LAB model
+A Lab model is something that will be derived from the Researcher's
+work. For a start we can explore the various components that may be
+part of a lab. In one narrative, the LAB should have at least these
+phases:
++ Idle
++ Registration
++ Contracting
++ Execution
++ Debrief
++ Accessment
++ Reporting
++ return back to Idle
+
+**** Idle
+This where the lab starts and ends. No work happens here. The VM
+resources should not be blocked at this stage.
+
+**** Registration
+This is where the user info details are to be recorded. 
+
+**** Contracting
+In this state the lab objectives must be stated. Student objectives
+must be understood. A final net learning objectives must be agreed and
+understood by both the system as well as the student user
+
+Requirements can be numbered and linked with some type of Bloom's
+taxonomy, Syllabus, UGC requirements etc.
+
+**** Execution 
+
+**** Debrief
+After each execution, the lab must ensure that learning happens. Some
+amount what happened needs to communicated. This phase should help the
+student in learning the basic lessons of the lab.
+
+**** Accessment
+Accessment should be derived from the requirements produced in the
+Registration phase. There should be a link to LMS and grading
+systems. 
+
+Also there should be some dynamic system here that would enable
+multiple labs to be fused to still produce only one integrated
+Accessment. 
+
+**** Reporting
+Reporting can be of couple of types: One has to do with producing a
+lab report. This has to do with scientific content of the lab. The
+other report has to do with performance of the student: What worked,
+where was a failure, what improvements were made etc. 
+
+This type of system can/ should also be linked with a recommender
+system to suggest other relavent learning resources for the student.
+
+
+** Technical Architect
+The technical architect should be able to convert the requirements
+into an implementation. He/She should suggest technologies, module
+break-up etc. 
+
+A final outcome of this work should be a High Level Design (HLD)
+document. The HLD can motivate various subtopics for discussion,
+implementation and testing. Eg. include: Portability, Security,
+Mobility etc.
+
+** UI designer
+The user interface designer should work on the behalf of multiple
+communities
++ end users (students who finally use the Virtual Labs) --
+  Accessibility, Usability... 
++ the Virtual Lab developers (e.g. development templates, wizzards...)
++ Sponsors (e.g. analytics, logs, filters)
+
+The UI should promote ease of use and themes that can be used 
+
+
+* Process
+The analysts report doc, vision doc, bug reports, test reports should all
+feed into defining the product roadmap. The roadmap (owned by the
+Product Manager) should map out various releases. 
+
+A steering team should ensure this process.
+
+Reviews should be held at the begining of each release to ensure that
+the product is still in fine alignment to the overall vision
+
+Designs should be done by designers. Coding by Developers. Testing by
+Testers. These should be seperated and not mixed. If there is a
+resource shortage, at least mix and match the candidates to ensure
+better quality.
+
+Power to include  /exclude content, power to redirect etc should be
+part of the Steering / Review team.
+
+The Steering / Review team can consists of existing lab developers
+theselves.
+
+** Testing 
+Testing should be derived from requirements doc. Testing should happen
+at Unit as well as concept level. Use cases should be used to screen.
+
+
+* prioritization
+Typically funding and enduser priorities should come before developer,
+designer or manager priorities. Sometimes even a hack that adds value
+to the enduser should be (temporarily) acceptable by the
+reviewers. And, in contrast, any specifications (or new work) that is
+not in alignment with the overall direction of a release or thrust of
+a program should be abandoned.
+
+
+* Success
+If number of users increases, if number of appreciations increases, if
+we are getting compliments, then we are doing something right. Else we
+are only just 'navel gazing'. That is, implementing self surving
+functionality, with no link to the outside reality.
+
+
+

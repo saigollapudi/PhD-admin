@@ -1,0 +1,22 @@
+WHAT: Raghav Demo mtg Prof. Choppella
+WHEN: July 11, 2015 - 3:45pm
+WHO: Sai Gollapudi (myself, SG), Prof. Choppella (VC), Raghav (RM) Mittal
+
+    RM demoed his Web App which had a preloaded nptel lecture. The tool was able to put notes and comment on the timeline of the video
+    VC wanted to see a simple annotation tool. A tool that would be able to take a NPTEL or a Virtual Lab page and drop a note on it
+    VC talked about Semantic StyleSheet where these notes can be modified as per some rules / guidelines
+    VC was thinking that this tool can be a Portal or a Plugin
+    VC redirected RM to take on this responsibility as a priority
+    VC talked about his vision for future: Develop an Apache Foundation like platform for Educational environment. He wanted a system where developers can use APIs, PlugIns and other resources to quickly develop and deploy courses and course related material (like videos, labs, experiments). we talked about multiple fundamental points like what is a lab, experiment etc.
+    RM agreed to look into developing a primitive Annotation tool (withou SWeets or any fancy facility) that would enable a simple demo on NPTEL pages.
+    VC's idea was to do iterative development. Start with simple annotation tool, develop it with more and more complexity (ex. use Sweets etc.)... He also wanted it to be literate programming, following SW process rules
+    SG talked about how he was setting up a development environment and then leading up to development of Sweet based application. Things that SG could reuse and control for future work.
+    SG mentioned that he was following literate programming ideas and trying to be in keeping with existing Sweet architecture & Technology. For example, SG is using Flask, MongoDB, Mozilla Authtentication (Personas) etc.
+    VC wanted these design decisions to be recorded
+    SG was suggesting that the platform idea for educational technology needs to be frozen as an idea and that future projects can be derived from it.
+    VC tasked SG to capture mtg minutes for this mtg (Done)
+    Post this mtg with VC, RM and SG met to have a deep dive discussion on building the Annotation tool
+    SG announced that he will be out for (PUSHKARALU SEVA) for 2-3 days
+
+
+

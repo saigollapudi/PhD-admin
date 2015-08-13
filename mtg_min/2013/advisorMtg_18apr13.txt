@@ -1,0 +1,28 @@
+11:00 - 12:30 discussion with VC + Dinesh
++ SG presented his SERL/SemesterEnd ppt
++ SG talked about his review of Renarration, Personalization, Browzer Add
++ SG also presented his second idea of "resurrecting Swami" - a semantic web project
++ Dinesh discussed the concept of Rennaration - he said newspapers are rennarration, books are rennarration ... almost everything around us a rennarration of sorts
++ Dinesh explained about his IDH project (Lepakshi) - India Digital Hertiage project
++ Dinesh talked about Sweets, Sweets Dbase and some reference to ontologies
++ Sweets are semantic tweets
++ Dinesh talked about how Sweets form relationships between entitities, and how it is distributed in control 
+
+5:00 - 5:15 discussion with Dinesh
++ SG presented his understanding of the IDH, Alipi, Renarration discussion
++ SG talked about how 3 clusters are visible: (1) a markup technology, (2) a navigation technology, and a (3) namespace technology
++ SG talked about alipi, IDH as mark-up technology where they take text or imgs and annotated it with Sweets.
++ SG talked about sweets & their dbase being in the center of this tri-fragmented view
++ SG presented the namespace on top as a epistimological space where the knowledge is categorized and structured - ontologies... SG also added metaphors, models... Dinesh added Mindmaps
++ SG discussed the last space as navigation technology - alipi, IDH have these sweet navigation capability. SG also saw an opportunity to do walkthrus and searches in this ontology space. Moreover, more than delivering content, an experience can be created.
++ Navigation experience can be when Bhagawad Gita is presented in text with some Krishna bhajans playing as audio in the bkg and man struggling images showing in as backdrop / watermark -- all selected by the intelligent agent ... just from the sematic relatinships that sweets divulged. 
+
+5:45 - 6:45 discussion with VC
++ SG presented the defragmented concept of Sweets+IDH+Alipi structures. It was SG's understanding of this... as explained to Dinesh
++ VC refocused the discussion on Renarration, Personalization
++ VC talked about abstraction of Renarration - existing content being reltold - so this becomes a content creator, Assessibility story
++ VC talked about Personalization being a semantic style sheet; SG added "lenses", "perspectives", "personas"... VC point is that semantic style sheets helps in sensemaking and categorizing content
++ VC talked about tools for curator, renarrator - ontological tools that can help renarrator identify audiences, perspectives
++ VC also enquired about status of T4E paper
++ SG talked about possibly including a browser-add-on paper for T4E.
+ 

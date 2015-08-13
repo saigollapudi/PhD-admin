@@ -1,0 +1,21 @@
+**Progress Report of Semester January to April 2013**
+
+This semester I finished the missing pieces of my work and completed
+writing my thesis. Following is the list of work accomplished in the
+semester: 
+
++ To test the working prototype of Alipi approach, I conducted a user
+  study in R\&D showcase of our university. Results of the study are
+  included in the thesis chapter.
+
++ Based on the reviews which we received for our paper on Power of
+  Friends from OzCHI-2012, we modified our work. For the same, we
+  extended our study to test the game prototype with larger number of
+  communities both in size as well as in number. We submitted the
+  paper to CHI-2013 where it got accepted in Work-in-progress
+  category. Attached is a copy of the reviews.
+
++ I worked on the browser plugin to enable Alipi on every page. The
+  work is also included in the thesis.
+
++ I completed writing my thesis. 

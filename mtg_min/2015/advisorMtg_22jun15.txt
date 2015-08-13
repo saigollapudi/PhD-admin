@@ -1,0 +1,21 @@
+WHAT: PhD advisory mtg with Prof. Choppella
+WHEN: June 22, 2015 - 3:45pm
+WHO: Sai Gollapudi (myself, SG), Prof. Choppella (VC)
+
+    VC suggested that we have more fixed mtgs for discussing SG research. Maybe book 2-3wk in advance. Apparently, VC is quite busy with multiple works
+    SG pitched the "Data Typing of Web Content" idea on the chalk board. The notion of typing existing web content, being able to operate on those data types and programs to transform existing published content was talked about
+    SG's concept was built on the earlier notion of Renarration and Sweets.
+    VC liked the idea and he saw that it had potential. He suggested that it needs to leverage existing VLEAD team and Virtual Lab work. He was suggesting that SG focus on concept but get some developers to focus on the system development work.
+    VC wanted SG to go on a organized / progressive manner
+        find a way to annotate a existing page
+        demonstrate that the annotation can be displayed on the original source page (without changing the source)
+        Could have the annotation be human engineered or thru automation -- where some earlier stored personal ontology can be used by the application to self annotate the work for the user.
+    SG said that Alipi and some existing SWeet Apps were meant to do this. VC was OK to reuse them.
+    VC wanted a demo tool to show to NPTEL responsible Prof. Mangalsoor. This tool should be able to show a user annotate a NPTEL page with some Virtual Lab links and vice-versa. These annotations should not change the original source. And finally, these annotations should be visible to the new browser of the page. Cross linking functionality facilitated by annotation. No need to fragment the video or carve out a Virtual Lab page.
+    VC wanted this to be in a Plug-In ... somehow transparent to the new browser (who may happens to land on of the two places - either the Virtual Lab site or the NPTEL site -- and as a surprise discover our annotation)
+    VC was OK using existing SWeets.
+    mtg ended with VC directing SG to work with Annon and others to make this happen. A mtg with Annon was planned.
+
+
+
+

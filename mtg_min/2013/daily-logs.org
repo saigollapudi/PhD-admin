@@ -1,0 +1,55 @@
+**Worksheet Daily Log**
+
+* 31st May: 
+- Updated [[file:../thesis.org][thesis]] with the summaries of papers on ontology
+matching.  
+- Browsed for the turotials and use of different APIs, such as, Jena
+API, SIOC, Protege.
+- A rough draft on ontology service.
+
+** Doubts regarding implementation of ontology: 
+- How to make user profile that is easily portable to browser plugin?
+- How to use the profile created by using an available above mentioned
+  APIs for ontology creation?
+- Do we really need such APIs or can we use a basic approach to
+  develop user profile?  
+- Cold start problem to create user profile:
+   + Does importing user profile data from Facebook come under
+     security bleach?  How many people will allow such an import?
+   + Asking users to fill the proile information can not be expected,
+     because the related papers conclude very least interest of users
+     in such tasks.  
+
+
+* 1st June:
+- Prepared a [[file:../projects/alipi/docs/onto-services/ontology-service-for-alipi.org][draft]] on how the Alipi archtecture works with profiles of
+  reader, re-narrator and web-page; possible attributes for each of
+  the three profiles; write an example to formalize how matching could
+  be done.
+
+- Came across a new ontology way of creating user profile,i.e.,
+  Semantic JSON.   Main advantages of using Semantic JSON are:
+    + Easy integration with Facebook or any other social n/w data.
+    + Can be maintained easily and allows SPARQL queries.
+    + A browser plugin can be developed in Javascript to query JSON.
+    
+- To develop profile of each web-page, RDFa microformats functionality
+  of HTML5 can be used.
+
+* 2nd June to 5th June:
+TAC coding:coreference resolution
+
+* 6th June:
+Reading about JSON
+Coding
+
+* involved in TAC competition coding
+* Working on compeltion of the paper on Power of Friends
+
+--------After a long gap ---------
+
+* 4th Sept
+Thesis chapter of POF
+* 5th Sept
+POF chapter, Alipi draft
+* 6th Sept

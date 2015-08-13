@@ -1,0 +1,124 @@
+**Progress Report of Semester July-Dec 2012**
+
+This semester I worked on structuring my thesis according to what I
+have already done and determined what is to be accomplished.
+(attached a draft of Abstract) 
+
+We submitted a paper on Power of Friends in OzCHI 2012. The paper got
+rejected and we worked on the reviews to improve our paper. I am
+attaching a copy of the reviews and the submitted draft. Based on the
+reviews, we have extended our study to test our game prototype with
+larger number of communities both in size as well as in number. 
+
+For the coming semester, my work plan is as follows: 
+
++ Analysis of the experimental data collected while testing prototype
+  of Power of Friends.  
+
++ A user study for our proposed ontology based re-narration service to
+  Alipi framework is required.  I will conduct the study and will
+  report the results in the thesis.  
+
++ Submission of Power of Friends and Ontology-based re-narration
+  service to Alipi framework.  
+
++ Complete my thesis to include the above-mentioned work.
+
+
+**Thesis Abstract
+
+With the rapid advancement of communication and computational
+technology, the World Wide Web has penetrated (become pervasive) in
+our daily lives. As a result, the focus of research in World Wide Web
+has slowly started to shift from building systems to understanding
+people. Today, research advancements are being thought and made in the
+direction of improving and cultivating the lives of individuals using
+the technology. One of the defining moments of the Web 1.0 was the
+ability to share and search for the content or the information. With
+the Web 2.0, we saw a growth in the user-generated content with more
+and more users becoming producers of the information rather than being
+mere consumers. As a result, the web is now overloaded with
+information (user generated content) on diverse topics contributed by
+diverse set of contributors. People call such information as
+“information bubble”. There lies a key problem of intelligently
+extracting the most relevant and accurate information that a
+particular person is looking for.  With Web 3.0, we thus envision a
+shift from keyword-based search to intelligent personalized search and
+modes of discovery. In Web 3.0 based systems, relevant information
+will be extracted, filtered and presented in the most suitable format
+to the users.  Unfortunately, state-of-the-art automated techniques to
+do so are not matured enough to achieve the same level of precision as
+the humans would do. Therefore, in order to achieve this broader goal,
+active contribution from the humans in the above-mentioned tasks is
+also needed.  This thesis is an attempt to harness the collective
+intelligence of humans in realizing the goals of Web 3.0. In
+particular, we have focused on the following two problems: 1)
+Knowledge extraction and validation 2) Web Inaccessibility. To achieve
+high system performance for a given problem, we have merged both human
+and machine computation at different phases. We have followed a
+who-what-how model to determine who(human or machine) performs what
+phase of the system and how to accomplish that phase. We tried to
+identify which part of the system requires human intelligence to
+improve its accuracy and how it should be achieved. Considering the
+overall performance of a system, we have accounted both automated
+techniques and human efforts and determined appropriate stages of the
+system for applying either of them.
+
+1) Knowledge acquisition: Knowledge acquisition deals with the
+   extraction and validation of user generated content or relevant
+   information to the search engines. This information comprises of
+   both community generated and shared knowledge, and objective
+   facts. Community knowledge consists of beliefs and facts that are
+   learned and shared by individuals within the community. However,
+   such knowledge is never explicitly available in plain format and is
+   often scattered across the community activities. Moreover, such
+   knowledge is highly subjective and varies from community to
+   community. On the other hand, objective facts are absolute truth,
+   commonly known to everyone and thus they are not affected by human
+   perceptions. Existing automated techniques have a limited scope
+   because of the dependency issues and do not scale well outside
+   their customized settings. We propose a framework called “crowd
+   consensus” where we motivate the individual members of the
+   community to participate in the extracting and validating tasks. As
+   a proof of concept we present an online Friendsourcing game called,
+   Power of friends that elicits truthful responses for the community
+   related questions from the community members using an intelligent
+   game design. Additionally we also propose uPick, an interesting
+   game for extracting useful objective facts form the document. We
+   designed and tested both the games. Responses from the participants
+   were encouraging. Most of the participants appreciated the novelty
+   of the designs and were willing to contribute their time by playing
+   the game. More than 70% of the facts were correctly identified by
+   using our game approaches.
+
+2) Web inaccessibility: Today, despite being the open web platform,
+   the web is inaccessible to many individuals who suffer from various
+   physical and cognitive disabilities, socio-economic backgrounds and
+   language barriers. The goal of “Web for All” movement is to make
+   the web accessible to everyone. However, the existing web
+   architecture provides very less flexibility and control to the
+   users to consume the web according to their needs. For example, a
+   Hindi-speaking native of Hyderabad cannot comprehend a relevant
+   useful web article written in Telugu because of the language
+   barrier. So far it is the responsibility of the content developer
+   or the curator to make the articles accessible and understandable
+   to everyone. However, in most cases, the content developer may not
+   accurately predict the target audience for the authored article in
+   advance.  We, therefore, aim to utilize the existing readers of the
+   articles to do the re-narration task for other consumers with
+   varied abilities. However, motivating them to do the re-narration
+   is a challenging task. We utilize a re-narration framework for Web
+   called as Alipi that incorporates human contribution to make web
+   accessible to everyone by re-narrating different sections of a web
+   page. We proposed an ontology based re-narration service to the
+   Alipi framework that incorporates user preferences. We also
+   developed a Firefox plugin to keep user preferences, which are then
+   consulted for every queried page to recommend a best suitable
+   re-narration to the user.
+
+We believe, the collaborative power of humans and machines together
+can realize the Web 3.0. Leveraging human energy and skills provide
+solution to problems that computers cannot accomplish solely.
+
+Keywords: Human computational games, community knowledge, objective
+facts, web inaccessibility, re-narration web, ontology based profiles.

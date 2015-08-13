@@ -1,0 +1,37 @@
+* 1 June 
+Work Process Document 
+
+* 7th June
+** Schema Design for Virtual lab
+Suitable database: JSON 
+3 tables: dnc_specs, develop_specs, lab_specs
++ dnc_specs(discipline, dnc, email-id, contact no), discipline is
+  the primary key
++ develop_specs(discipline, name-of-lab,hosted-url, institute,
+  lab-developer, email-id, contact no), where discipline is a foreign key
+  relationship from the table dnc_specs
++ lab_specs(lab-name, client-prop-req, client-opensource-req,
+  server-prop-req, client-opensource-req), where lab-name is a foreign
+  key relationship from the table develop_specs.
+
+* Involved in Virtual Lab Dashboard development with Mahesh.
++ How to design the dashboard? (design and usability aspects)
++ How to integrate the dashboard with the database? One issue with
+  this integration is that Drupal has its own MySQL database format.
+
+* Search Engine Facility on Virtual lab page
++ How to crawl the content of various labs? Issue: Labs do not follow
+  a similar structure to keep the lab content.
+    - Possible ways: Manually crawl the content and keep it in a
+      database; or, use Nutch to crawl data from website directly.    
++ possible solutions: home-made code or an already developed search
+  engine (using Lucene, Nutch, Luke, Solr)
+
+* Populating Pascal Wiki page
+
+* Maintianing the Google Discussion Forum of all the research meetings.
+
+* 7th to 12th July
++ SVN tutorial
++ Checklist for the sprint
+ 

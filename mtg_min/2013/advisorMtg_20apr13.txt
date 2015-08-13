@@ -1,0 +1,37 @@
+* weekly mtg with advisor
+SG met up with Dinesh(D) and VC
+susequent mtg held with D, VC, Ravneet
+
+* highlights of mtg with D, VC
++ Focus of discussion was on SG's thesis / research direction
++ Assessibility, Renarration, Personalization were the keywords that resurfaced
++ Renarration story needs to be told. D emphasized that everything is a renarration of sorts (newspaper articles...)
++ Polarity / Paradoxes were discussed. It was noted that renarration is about having 2-3 or multiple parallel truths in existence simultaneously. Apprently Wikipedia is one truth ... just like we read Times Of India, or Hindu or Deccan Chronical, so too we must be able to see the web with multiple versions of a page of content. It need not be just one version
++ SG's thesis is about intantiating Renarration in a domain, with an architecture
++ VC mentioned that a good architecture is one that is not only solving one problem -- the one we started off with -- but is also solving other problems
++ SG noted that needs to look into what the difference was between RTF and Sweets
++ D talked about pad.ma and Indiancine.ma as two websites to look at - they both integrate text with a/v content
++ D talked about a "annotating code project" - longer term project for Ravneet
++ SG' thesis to include Accessibility demonstrative architecture - Assessiblity  is about inclusion. 
++ D mentioned that (in personalization) community tagging is personalization
++ D mentioned that 9gags website - fun
++ Accessibility should harness the inherent diversity in a polarized truth nerrative that a web can provide
++ VC said that the challenge that web is facing is "how to get info from / to the billion people population of India"
++ D talked about Community radio being an example of how shared-control was possible but only controlled lic were given out... though 2-way radios were possible, govt (post war) only sent out lic to few and controlled how communication got out. Today's internet resembles that situation
++ D mentioned that current web is about control and singluar communication. 2-way communication may exist but it may be asynchronous (Chat, e-mail) or synchronous (chat, skype)...
++ D talked about Rennaration: Suppose a webpage is outdated, we have few choices: We inform the author, we inform our friends, or we renarrate. The first two do not update the page and leave a residue. The renarration (thru Alipi) leaves a webpage of content in the place where the user surfs.
++ 
+
+
+* highlights of mtg with Ravneet
++ VC said that we need to target a T4E paper thru Ravneet Singh
++ This is about Alipi + Virtual Labs; Ravneet should demonstrate how Virtual Labs can use & benefit by Alipi
++ Ravneet may need to enhace the UI and / or the browser
++ SG said that he would discuss a project -- doing a survey, motivating the need for Alipi -- thru Ramesh (?) Gollapudi at VVRIT
++ 
+
+* Action items for Sai (while he is in Australia for summer)
++ Sai to work on T4E papers with Himanshu, Rmaesh (VVRIT), and self's (multiple surveys)
++ SG to leverage the survey data and the add-on for the firefox
++ SG to work with Ravneet + VVRIT to get the Alipi + Virtual Labs paper going
++ SG to research and write a paper on Rennaration

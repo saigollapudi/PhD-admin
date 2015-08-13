@@ -1,0 +1,91 @@
+* Report: from 8th Feb to 14th Feb
+** Work Done:
+
++ Understood the work of Fabian M. Suchanek on Automated Construction
+  and Growth of a large Ontology (PhD Thesis).  The thesis defines
+  their proposed tool Yago, to formulate an ontology for huge
+  knowledge dump like Wikipedia.  Also, how to extract the knowledge
+  and relations from Wikipedia dump, and to represent the extracted
+  knowledge in ontologies as facts (triplets,
+  subject-object-predicate). The important points are as follows:
+
+   - It gave an insight on how to build systems with various relations
+     as constraints on different attributes/fields, such as defining
+     range and domain of attributes.
+
+   - It describes how to define relationship between two attributes
+     and how to map the key words which define relations to standard
+     relationships, such as birth date of a person is defined as
+     "wasBornOn" relationship.
+
+   - Ontology construction deals with certain challenges, which need
+     to be addressed for any system dealing with huge knowledge
+     representation.  Logical reasoning to define constraints over
+     attributes(domain, range) of ontologies, is to be addressed such
+     that decidability of any constraint is defined everywhere.
+     Moreover, ranking is also an issue to list the retrieved
+     knowledge from the ontology.
+
++ Gone through certain tools for ontology development, such as  JWPL
+  and MediaWiki.  JWPL seems to be a promising library to develop
+  ontology based service for Alipi.
+
+** Work plan for next week:
+
++ Study of other comparable tools like NELL, PROSPERA, TextRunner and
+  to conclude which tool will provide the best features along with
+  full flexibility for Alipi.
+
++ Study of the various tools required for ontology implementation.
+
++ Brain-storming the requirements of Alipi system.
+
++ Study of the existing user profiles presented as ontology.
+
+ 
+* Report: from 15 Feb to 22 file.
+** Work done:
+Note: Notes are maintained in thesis file. 
++ Revision of basics of Semantic Web and the issues. 
+
++ Comparative study of available tools to build ontology. 
+
++ Studied Rules Markup Language, SWRL (Not completed yet). Just able
+  to get a rough idea of rule Markup Language (ML).
+
+** Work Plan for next week:
++ Understanding of SWRL and Description logics.
+
++ Understanding of ontologies as user profile.
+
++ better understanding of the existing tools, such as Yago2,
+  PROSPERA, NELL, LEILA, to make them use for Alipi.
+
++ Submission of SRS by 25th Feb.
+
+* Report from 23rd Feb to 29 th Feb
+** Work done:
++ Understanding of how rules are embedded on top of OWL.
+
++ Understanding of different ontology languages, namely, RDF, RDFS,
+  OWL (3 versions). 
+
++ Study of the possible tools required for implementing OWL and rules.
+
++ Thought process on user-profile implementation.  To remove the
+  problem of cold-start and to have a seed profile, Facebook profile
+  of the users could be taken.
+
++ Possible datasets to start making web-page ontology.  Vlabs could be taken as
+  a test bed.
+
+** Work Plan for next week:
++ Hands-on Open Graph API of Facebook.
+
++ Hands-on Protege-OWL and SWRL.
+
++ Ontology representation for a certain lab of Vlabs.
+
+ 
+
+

@@ -1,0 +1,14 @@
+WHAT: PhD advisory mtg with Prof. Choppella
+WHEN: Apr 28, 2015 - 1:45pm
+WHO: Sai Gollapudi (myself, SG), Prof. Choppella (VC)
+We had a brief unscheduled meeting about SG's PhD direction. SG was trying to see if he should focus on system building, concept forming, research etc. SG was concerned about not having resources do system building. VC responded stating that VLEADS and Annon are there for this purpose.
+
+Later at a lunch (informal mtg) VC was asked about how he sees architecture. is it about a system design? will such a concept involve logical diagram of the system being built? His answer was not so limiting. He was looking at technologies and techniques also. How would you use web for telephony was his answer? What existing aspects of www can we reuse for our purpose of accessibility?
+
+From VC's conversation we gathered that there was a difference in the word choice we both employed. VC re-proposed the idea of metrics, forex conversion that he discussed in the past.
+
+There was talk that Accessibility was a domain and that SW eng principles and Semantic web principles can be used to address the problem of accessibility.
+
+conversation ended abrubtly as VC was travelling and had more VLEAD mtgs.
+
+

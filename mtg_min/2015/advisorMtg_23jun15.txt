@@ -1,0 +1,20 @@
+WHAT: PhD advisory mtg with Prof. Choppella
+WHEN: June 23, 2015 - 11:15am
+WHO: Sai Gollapudi (myself, SG), Prof. Choppella (VC), Raghav (VLEAD intern, Rg)
+
+    A hallway discussion turned into a mtg in VC's office. The discussion was about the demo tool linking NPTEL and Virtual Labs for Prof. MangalSoor.
+    SG pointed out that current Alipi soln was not sufficiently working. And also that demo tool development by way of a plugin would be too complicated to meet the July deadline.
+    VC said that PlugIn work was a critical need and he wanted this to be a top priority.
+    SG explained that Annon was planning to go out to Paris (therefore, not fully available for this demo tool work) and that Plug-In was just one option. And also that Plug-In was more complicated than a Portal option.
+    VC contacted TB Dinesh (Servelots) to validate this.
+    During ensuing discussion VC accepted a Portal based approach.
+    Rg was pulled in and involved the demo tool project requirements. Rg is an intern at VLEAD, working on Music Lab projects and scheduled to be in town till end July.
+    Rg's current work on Music Labs was re-prioritized by VC.
+    VC was looking to also talk to Annon to gain his perspective. Annon was in a VLEAD mtg and thus unavailable.
+    VC pointed out that we could get resources to help in the development of the Sweet Apps. He wanted them updated with new releases. He wanted somebody to manage the development rollout effort.
+    SG wanted to know if he should do development. VC said no. VC wanted SG to focus on the overall rollout control and direction. Work with Developers to get it out he said. What skills would you want from a fulltime engineers. I could give you one to use for this work. Work with Annon to get this out.
+    Mtg ended with VC wanting to talk to Annon. SG walked away promising a demo to Rg. SG and Rg regrouped to further discuss on this demo tool work
+    Post this mtg, SG, Annon and Rg met to explore this further.
+
+
+

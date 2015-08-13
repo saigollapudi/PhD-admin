@@ -1,0 +1,108 @@
+#+TITLE: Mid Sem-1 progress review meeting
+#+AUTHOR: Deepti Aggarwal
+#+DATE: [2012-09-05 Wed]
+#+STARTUP: overview
+#+STARTUP: hidestars hideblocks
+#+DESCRIPTION: An exploration of the Event-B framework using the Rodin Platform
+#+KEYWORDS: Event-B, Rodin
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+#+startup: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [12pt,bigger]
+#+LaTeX_HEADER: \setbeamertemplate{frametitle}[default][center]
+#+LaTeX_HEADER: \mode<beamer>{\usetheme{Warsaw}}
+
+#+BEAMER_FRAME_LEVEL: 2
+# Each 2nd level heading is a slide
+
+* Work accomplished
+** Work accomplished by Summer end
++ All three published paper presentated.
++ Study of related work for developing renarration service to Alipi,
+  which includes: study of existing user profiles, user profile
+  creation and their matching, rules to match the profile and
+  renarration, algorithm to select the best renarration for a reader.
+  1) Looked at the implementation design and other related issues.
+     Finalized the design and the work required to be done. 
+  2) Completed the literature survey of user profiles.
++ TAC work
+  1) Slot Filling task coding and documentation.
+  2) Entity Linking task coding and documentation.
++ Power of Friends study and paper draft.
+
+
+* Current semester plan (Monsoon sem. 2012)
+** Work on renarration service for Alipi framework
++ Chrome extension to provide ontology based user profile. 
++ Define user study for the the ontological service.  
+  - Domain to be tested: one of the Vlabs lab, may be PoPL.
+  - Define the population sample who will consume the re-narrated
+    pages  (consumers).  This can be defined in two dimensions:
+    - Number of users using the developed user profile for
+      browsing. Here, the emphasis is on the larger population sample
+      of users.
+    - Number of re-narrated pages each user has browsed.  Here, the
+      emphasis is on the number of re-narrated pages available as
+      options for the users.
+    - Define the re-narrators to re-narrate webpages using the
+      developed profile.
+ + Working on the paper draft. 
+
+** TAC work completion
+- coding left for Entity Linking
+- documentation of Slot Filling and Entity Linking
+  
+** Power of Friends submission
+- Finishing the draft of the paper followed by submission in
+  OzCHI 2012.
+
+** Thesis completion
+- Define thesis structure, flow of how to connect all the explored
+  research areas with each other.
+- Writing.
+
+
+* Work accomplished in August:
+** Renarration service for Alipi framework:
+1. Plugin development: requires little work on user authentication
+   from Alipi server. 
+2. Re-narration algorithm is implemented.
+3. User study formulated.
+4. Rough draft is ready.
+
+** TAC work:
+Coding finished for Slot Filling and Entity Linking.
+
+** Power of Friends:
+Paper submitted
+
+** Thesis writing:
+- Flow finalised.  
+- Rough draft on objectives
+- Introduction chapter started.
+- One chapter draft on Knowledge extraction and validation is almost
+  ready.
+
+* September plan:
+** Paper on renarration service for Alipi framework
+- conduct user study
+- improvising the paper draft
+
+** TAC work documentation
+- documentation of both Slot Filling and Entity-Linking task.
+
+** Thesis completion
+- a rough draft of whole thesis
+
+* Deadlines
+** Deadlines to follow:
+W4A 2013 (not announced yet)
+
+
+
