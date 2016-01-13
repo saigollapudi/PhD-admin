@@ -1,0 +1,23 @@
+WHAT: nptel demo disccussion mtg
+WHO: Venkatesh Choppella (VC), Sai Gollapudi (SG)
+WHEN: Jan 13, 2016
+WHERE: VC sir's office at 2pm
+
+
+Key points discussed:
+
++ SG talked about the concept of Topic Maps, ontologies and linking it
+  with Educational Technology. VC found the concept interesting 
++ SG tried to show the PhD narrative overview ... it was on GitHub
++ VC wants the PhD work protected. He advised the PhD docs to be moved
+  from GitHub to a private repository in Bitbucket.
++ VC wants a more tactical roadmap of which conferences, which
+  journals?
++ 6 papers have aready been published (good). 2-3 more
+  papers would help. But, more relavent would be some journal papers
++ 1 domain journal (Educational Techn?) and one CSE Journal on
+  Architecture (technical) would be ideal. Journals take time to write
+  and access... so, we need to prepare and plan
++ VC's advice is to first fix the Journals and work backwards identify
+  current tasks, activities, timelines
++ VC wanted a roadmap charted in the next few days
