@@ -1,0 +1,51 @@
+When: 2:30-4pm, 2015_dec_18
+Where: Prof. Choppella's office
+What: Discuss Alipi demo, progress of Sai's work on renarration
+Who: Prof. Venkatesh Choppella (VC), Sai Gollapudi (SG)
+
+In the mtg the following topics were discussed
+
+    Alipi demo current state and future requirement
+    Proposed direction for SG's work
+
+Here is the summary of  some of the key points that were discussed
+
+    Alipi Demo
+        SG walked thru earlier Alipi demo script that was sent to VC and Sonali (see email).
+        The scenario 1 shown was a NPTEL language translation demo
+        It featured how the Renarration incorporates language changes (which is beyond transliteration), how we can add a pic, how we can add a link to VL etc
+        VC said that conceptual relationship with VL can be removed. Link can be there but VL maybe in limbo so don't have tight coupling with it. Work with NPTEL material
+         SG showcased language modifications for Tamil, Telugu (urudu, hindi were not shown)
+        VC liked the demo but wanted more for the upcoming demo... here are those requirements:
+            an integrated talk and demo ready to be made to NPTEL team at the end of Jan
+            a demo with use cases - 3 uses cases which are grounded in practicality wrt to some local college. Instructions are to work with some local colleges see how they use NPTEL, figure out how our language translations can address their issues. Showcase problem resolution
+            VC is willing to incrementally develop this over a lot of back-n-forth pitches / reviews between VC and SG
+            Demo should feature how NPTEL issues are addressed and not just what Alipi is capable of
+            timeline Jan, 2016
+            VC wants SG, Dinesh, Vijay (T4E) to go to IIT Madras/ Delhi to present
+    SG presented slides which featured next steps for Alipi. This was already shared with VC and Sonali in an earlier email.
+        VC was generally OK with what was presented, except he wanted progress to be done incrementally. No need to integrate all the tools (e.g. ReStory, video etc yet). He wants demos to be separated by functionality.
+    SG talked about work done so far on renarration
+        SG showed the current write-up
+        SG Talked about various use cases that were presented
+        VC made a comment that SG's articulation capability was excellent
+        VC suggested that use-cases (from a demo point of view) need to be more detailed and grounded in real-life requirement.
+    SG's PhD participation
+        VC wants more lab presence by SG. Wants full calendar to be detailed.
+        SG has already shared google calendar for 2016 with VC. SG is a part-time student. SG has other external commitments... and those commitments can not be confirmed 1 year in advance. So, access to google calendar should suffice.
+    SG talked about proposed future research efforts
+        SG talked about proposed Experiments 
+        VC was OK with the idea but more than scientific accuracy he was initially interested in a more practical use case that is demo-able. Scientific basis should be there but it need not be very vigorous ... that latter requirement is for publication, which, apparently, is to come later.
+        SG's concern was that this is empirical work, science work... is it really Technical for a CS degree? VC assured that he will worry about that... and assured SG that he should not worry about it
+        SG proposed that he would like to work on a journal article ... the stated problem was code drift of couple of VLs.
+        VC discouraged usage of VL (as they are in a state of flux). Also, VC suggested that re-engineering couple of VLs to get into EDx is not really a Re-narration problem. He thought Re-Eng of VLs was out of scope and opposite. He did not approve of this.
+        Bottom line advice from VC: first do some data gathering of real life use cases, renarrate a solution, show how it is better than Google translate, make sure there is a some empirical / scientific bases but don't be too pedantic... finally when this is demoed and finalized, then go with scientific publication
+        VC suggested that we must have a system first. The system ought to demonstrate the power of a NPTEL renarration. A use case that is quite compelling is required.
+    Alipi Project handling
+        VC wants SG to not work in isolation but to rally resources around in VLABs, from Janastu, from Sonali etc.
+        VC wants SG to drive teams of development... SG tried to talk about earlier failed BTP efforts thru Geeta (ProjMgr for Virtual Labs). VC wanted BTP work to be done thru him and not VL
+        VC wants SG to drive the Alipi project, which he thinks is beyond the PhD effort or tool
+        VC wanted Alipi work to be consolidated and easily accessible
+
+
+Summary: Work on a Alipi demo. Coordinate with Sonali for system changes. Get some grounded data from the field. Show value of renarration to the common user (and ensure that it is a issue that is being resolved for NPTEL team). Demo should be integrated with a talk featuring findings, renarration's value, approach diff from google translate etc. 
