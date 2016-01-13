@@ -21,10 +21,10 @@
 
 
 * Major Milestones
-1. Part 1 :: Establish that some tier 2-3 students are not tapping into
++ Part 1 :: Establish that some tier 2-3 students are not tapping into
             existing content for reasons XYZ. Outcome: Show that there
             is a real problem out there with the content. 
-2. Part 2 :: Surface what type of typical renarration methods teachers
++ Part 2 :: Surface what type of typical renarration methods teachers
             are opting for. That is, ask teachers to renarrate some
             content which is known to be in accessible to some of
             their students. 
@@ -36,21 +36,21 @@
               trying to understand the reasoning behind those changes.
 	    + measure the learning due to renarration. Outcome:
               Establish that Renarration helps.
-3. Part 3 :: fix / limit the renarration techniques. Ask teachers to
++ Part 3 :: fix / limit the renarration techniques. Ask teachers to
             renarrate new content with only these technique. Outcome:
             Establish that some basic techniques for renarration can
             be a good start point for a renarration system
-4. Part 4 :: Demonstrate the role of Context & Intent in the
++ Part 4 :: Demonstrate the role of Context & Intent in the
             educational texts. Show how changing Context or Intent
             leads to a new narrative. Establish that when there is a
             mismatch between expected Context and Intent of the
             student with that of the renarrator then there is a
             problem in comprehension. Outcome: Demonstrate the need
             and utiilty of Context & Intent in renarration.  
-5. Part 5 :: Surface an appropriate context & intent that is relavent
++ Part 5 :: Surface an appropriate context & intent that is relavent
             for NPTEL / MOOK content. Outcome: when Context & Intent
             are there learning is better.
-6. Part 6 :: Once the Renarration framework is built for NPTEL, MOOK
++ Part 6 :: Once the Renarration framework is built for NPTEL, MOOK
             demo, show that the tool is working. Outcome: 
 	    + teachers are able to renarrate
 	    + students are able to view renarrations
@@ -69,4 +69,14 @@
 + a domain specific -- i.e. NPTEL related -- solution
 
 
-* Papers
+* Publications: 
+1. T4E paper on Comprehension - Which modality is better
+2. CogSci/ReadAid - tool to help dyslexics learn 
+3. APCHI, IHCI paper on NPTEL video cropping helps bandwidth without
+   loosing value 
+4. T4E description of Tier 2-3 students
+5. CHI paper with Himanshu on mental models
+6. W4A paper on Renarration & extended defn on Accessibility
+
+
+
