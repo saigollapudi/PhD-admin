@@ -1,0 +1,35 @@
+WHAT:  mtg to discuss the future goals and direction of Renarration project
+WHO: Susan (SU), Venkatesh (VC), Dinesh (TD), Sai (Sai), Sonali (SG), Pramod (PA)
+WHEN: 28 Dec, 2015; duration ~1hr+
+WHERE: Conf call on Skype /Google Hangout
+
+Key points discussed:
+
+    (VC) - called for this mtg to discuss the goals and future direction of the Alipi, Renarration activity. He wanted to come up with some plan on next steps for 6months to a year
+    (all) - group generally agreed on the idea / direction
+    members checked-in on their current projects, status, interest related to Renarration work
+        SU - had a Masters Student -- Emrah -- work on a Renarration project / thesis. She will be sharing this shortly
+        Apparently, Emrah is also interested in this project and is wanting to take his Master's thesis further
+        TB - in an earlier mtg demoed couple of applications they developed at Servelots that were based on this idea.
+        PA - talked about his interest in Code Annotation and the concept of Literate Programming
+        SG, VC, Sai - talked about working on some NPTEL based Renarration demo
+    (VC) - wanted to have a archived and regularly released code base. Action was taken (Sai) to start a private Bitbucket account for this; Sai to use VC account for this
+    (SU) - wanted to have one, a roadmap, two, a agreement on terminology, and three, a requirements doc
+    (TB) - suggested that we do a paper exercise of Renarration and then document it
+    (SU) - emphasized that focusing on real life applications will create a compelling and engaging use case for our concept / project
+    (VC) - suggested that we choose NPTEL as a point of focus for our case study. He also suggested that we develop it systematically: First start with text renarration, then add more and more complexity.
+    (VC) - suggested that we focus on a MOOCs course and base our paper Ontology on that. Action was taken (VC) to share a good MOOC course to Renarrate
+    (all) - audio was bad... wanted mtg minutes to be circulated. Action (Sai) circulate mtg minutes - done
+    (Sai) took an action to create a google group to start on this discussion - done
+    (SG + Sai) - shared progress of Sonali's work towards NPTEL demo. This involved bookmarking, annotating an existing NPTEL demo. Team felt that for freezing releases and doing this a long-term development project, we need to have a more systematic method and a small first step. They all agreed to work with Text as the first modality. Suggested SG and Sai to continue on their efforts as a parallel thread on their own but do something small / concrete for this project here.
+     (VC) - Spoke about the potential components of a MOOCs course -- 1) video, 2) written notes, 3) questions / quiz / homework problems, 4) exams, 5) labs. (TB) added that in the paper exercise we will need to clearly define a working Ontology... details could surface as we dig into a specific use case, he said.
+    (VC) -- suggested that we have regular mtgs, regular releases and regular demos. Demos, he said, will highlight and illustrate the purpose of the release. Also, VC suggested that Literate Programming be used in the implementation of the platform code
+    (SU) agreed to share Emrah's Masters thesis for initiating her side of the discussion on this topic
+
+Conclusion:
+
+    Sai to create a group ID - done
+    Sai to create a Bitbucket project archive
+    VC to share a MOOCs course that we could all try to Renarrate by hand (paper activity to surface detailed issues)
+    Sai to share draft definition of some terminology to initiate discussion
+    Sai to capture some of this discussion on terminology, roadmap, application on documents (Bitbucket) so that material is traceable.

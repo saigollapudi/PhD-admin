@@ -1,0 +1,72 @@
+#+AUTHOR: Sai Gollapudi
+#+TITLE: Roadmap for Sai Gollapudi's PhD
+
+
+* Overview
+** General Story
++ "I am in the intersecting space of Semantic Web + Accessibility"
++ "Build a Semantic Web Architecture for Renarration - with NPTEL as a use case"
++ "Renarration is both the process and outcome of repurposing some
+  source content into a target deliverable, for making it more
+  accessible to a user community which is part of a different context"
+
+** Flow of my narrative
+1. web content is not accessible to many, and it is not just body disability. (Data + Research)
+2. establish that renarration is nothing but the act of repurposing content to make it accessible. (Research)
+3. we need a mechanism to renarrate content (motivate the need)
+4. Renarrated content is more comprehensible when there is a match of User-Renarrator Context & Intention. (Liturature Survey, Research)
+5. take the use case of NPTEL, MOOC content. (Analysis, Research, Application of prior established concept)
+6. build a framework that demonstrates how this renarration can happen (SW Development)
+7. validate the theory and the system (Research)
+
+
+* Major Milestones
+1. Part 1 :: Establish that some tier 2-3 students are not tapping into
+            existing content for reasons XYZ. Outcome: Show that there
+            is a real problem out there with the content. 
+2. Part 2 :: Surface what type of typical renarration methods teachers
+            are opting for. That is, ask teachers to renarrate some
+            content which is known to be in accessible to some of
+            their students. 
+            + Observe, surface and catalog some of the common
+              techniques that teachers are using to repurpose
+              the. Output: A histogram list of techniques
+	    + Inquire as to why they used they used the techniques
+              they used. What is the pedagogy behind it? Outcome:
+              trying to understand the reasoning behind those changes.
+	    + measure the learning due to renarration. Outcome:
+              Establish that Renarration helps.
+3. Part 3 :: fix / limit the renarration techniques. Ask teachers to
+            renarrate new content with only these technique. Outcome:
+            Establish that some basic techniques for renarration can
+            be a good start point for a renarration system
+4. Part 4 :: Demonstrate the role of Context & Intent in the
+            educational texts. Show how changing Context or Intent
+            leads to a new narrative. Establish that when there is a
+            mismatch between expected Context and Intent of the
+            student with that of the renarrator then there is a
+            problem in comprehension. Outcome: Demonstrate the need
+            and utiilty of Context & Intent in renarration.  
+5. Part 5 :: Surface an appropriate context & intent that is relavent
+            for NPTEL / MOOK content. Outcome: when Context & Intent
+            are there learning is better.
+6. Part 6 :: Once the Renarration framework is built for NPTEL, MOOK
+            demo, show that the tool is working. Outcome: 
+	    + teachers are able to renarrate
+	    + students are able to view renarrations
+	    + renarration is helping
+	    + Context & Intent seem adequate
+	    + the tool is flexible in allowing for modification of C &
+              I
++ Part 7 :: Demonstrate how NPTEL,  MOOC content delivery has become
+            more accessible to Tier 2-3 students
+
+
+* Contributions
++ Concepts of Renarration and Sweets
++ a Semantic Web framework 
++ The need for Context & Intention in Renarration
++ a domain specific -- i.e. NPTEL related -- solution
+
+
+* Papers

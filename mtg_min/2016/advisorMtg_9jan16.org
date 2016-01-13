@@ -1,0 +1,35 @@
+WHAT: nptel demo disccussion mtg
+WHO: Venkatesh Choppella (VC), Sonali Goyal (Sgoy), Sai Gollapudi (SaiGo)
+WHEN: Jan 9, 2016
+WHERE: VC sir's office at 4pm
+
+
+Key points discussed:
+
++ objective of the demo: Renarration of MOOCs / NPTEL content
++ Proj Summary: to build a system that allows renarration of (text, video ...) applied to NPTEL / MOOCs
++ Project plan is to deliver it in a series of releases titled r0, r1, r2... where r0 is the code base and the initial release. And where rn is a union of all the previous r(n-i) releases and new features.
++ We aim to build the project code base in a literate way with documenation and code being tangled. Org mode code base from VLEADS/Systems work can be a start point.
+  ++ ACTION: Sai to talk to Soumya and get the background on the VLEADS approach. DONE.
++ Code base to be archived and version controlled on either bit-bucket or git-hub.
+  ++ ACTION: Sonali to create an archive. Or, use the existing https://github.com/vlead/iitm-renarration-demo archive.
++ Documentation to capture Requirements, Design / Model, Implementation, Validation
++ Code releases to be done regularly (perhaps bi-monthly?)
++ What is the abstract model that we are dealing with? How is a web page represented in our view? Is it an object (which constitutes content + interface)? Or is it a DOM node-tree? (SaiGo) talked about using it as a DOM node-tree with only nodal level changes being enabled for r0 release.
++ Potential modifications to a node-tree that were discussed include: replace, add, delete, style-modification of a (sub)tree
++ Once we identify the model, how do we then address it? e.g. DOM node-tree is addressable as a tree of nodes. Other examples xPath etc. What data-structure should we use? This point was for reflection and subsequent decision making (at design time).
++ What is the user interace to provide this access to this model or parts of this model? That is, how do we provide the renarrator the ability to navigate this DOM (or similar) structure? Will it be highlighting parts of the page or would it be giving them a tree and having them navigate or using right mouse-button or what? This is a design decision to be made.
++ Our differentiator over Firefox debugger is persistence. Otherwise they too enable web page modification. In the backend we are preserving the transformation by way of Sweets.
++ A web page modification can be imagined as a series of web page transformations.
++ (VC) discussed the Phonetics application case that was earlier discussed with Soma mam
++ What is the method that we can use to get to the character within a paragraph? How do we address this? A node, for instance, is entire paragraph block. How do we modify just parts of it? Design desicision for r1 is to see if we wish to include this feature. If yes, then what model extension should we make? For Phonetics example, we should be able to navigate upto the individual character level and make character modifications to (with dicritical marks) to enable better readability to novice english learners.
++ (SaiGo) discussed the usage of context and intention as a 3D vector with content. He presented the potential use of curriculum and university info as instances of this for the upcoming demo case for MOOCs and NPTEL. This was discussed but no major conclusion reached. VC pointed out that he does not see Intention being outside of context.
++ VC talked about web page being a transform that includes the original object + context. This could result in the change of the interface.
+
+Post meeting with VC, SaiGo and Sgoy met to discuss next steps:
++ Sgoy not to stop the implementation ... continue work
++ Sgoy to post code on the bit-bucket / git-hub archive
++ SaiGo to continue documenting the project.
++ Current r0 need not be burdened with Context, Intent disucssion. Only text renarration to be demonstrated. A working system is the target. The future release could address this Context, Intention issue.
+
+
